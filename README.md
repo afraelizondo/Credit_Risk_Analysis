@@ -63,3 +63,12 @@ In order to select the correct model, we performed 6 of them to determine which 
 
 ## Summary 
 
+With an accuracy score of 92%, the best performance was of the Easy Ensemble AdaBoost Classifier. 
+
+With the training and test dataset, it threw these results, that in my opinion are so much better than the results from the other training models. 
+
+<img width="391" alt="Screen Shot 2023-02-06 at 6 43 09 PM" src="https://user-images.githubusercontent.com/113856917/217119283-1f32422f-0cac-4c75-8b8a-b657b8c4ecb5.png">
+
+Even though is not perfect, it only predicted 8 as low risk, being an actual high risk. 
+
+So, I would definitely choose this algorithm over the others.  
